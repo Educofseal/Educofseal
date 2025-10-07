@@ -21,7 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![WINDOWS](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=Windows&labelColor=0D1117)&nbsp;
 ![LINUX](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-Microsoft_office-0D1117?style=for-the-badge&logo=Microsoft-office&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
 ![Gn](https://img.shields.io/badge/-gnometerminal-0D1117?style=for-the-badge&logo=gnometerminal&labelColor=0D1117)&nbsp;
