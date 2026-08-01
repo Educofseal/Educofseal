@@ -1,4 +1,3 @@
-[README-perfil (4).md](https://github.com/user-attachments/files/30609654/README-perfil.4.md)
 <h1 align="center">Eduardo Alves</h1>
 
 <p align="center">
