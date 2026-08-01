@@ -52,9 +52,4 @@ mudam; o jeito de aprender é sempre o mesmo.
 | **[Pokédex Desktop](https://github.com/Educofseal/Pokedex)** | Como um app desktop consome uma API e continua rápido offline? |
 | **People Analytics · Qualidade de Testes** *(publicando)* | Do dado cru ao indicador confiável — Python, SQL, Power BI. |
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Educofseal&show_icons=true&hide_border=true&count_private=true&title_color=7C8CFF&icon_color=7C8CFF&text_color=9AA3B2&bg_color=0D1117" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Educofseal&layout=compact&hide_border=true&title_color=7C8CFF&text_color=9AA3B2&bg_color=0D1117" alt="linguagens" />
-</div>
-
 <p align="center"><sub>🌐 <a href="https://educofseal.github.io">educofseal.github.io</a> — um mapa de como eu aprendo, não uma lista de tecnologias.</sub></p>
