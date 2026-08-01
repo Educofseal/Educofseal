@@ -1,41 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD24B2&height=120&section=header"/>
+[README-perfil (4).md](https://github.com/user-attachments/files/30609654/README-perfil.4.md)
+<h1 align="center">Eduardo Alves</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8D2585&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+Alves;I+study++Computer+Science+at+Braz+Cubas;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C8CFF&center=true&vCenter=true&width=650&lines=Aprendo+construindo.;Fico+curioso+%E2%86%92+construo+um+projeto+pra+entender.;Python+%C2%B7+web+%C2%B7+dados." alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <b>Estudante de Ciência da Computação · Suzano, SP</b><br/>
+  Não me defino por uma tecnologia, e sim por um hábito: quando algo me deixa curioso, construo um projeto pra entender como funciona.
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Educofseal&show_icons=true&count_private=true&hide_border=true&title_color=8D2585&icon_color=8D2585&text_color=b26bc1&bg_color=0d1117" alt="Eduardo Alves github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Educofseal&layout=compact&hide_border=true&title_color=8D2585&text_color=8D2585&bg_color=0d1117" />
-</div>
+<p align="center">
+  <a href="https://educofseal.github.io"><img src="https://img.shields.io/badge/Portfólio-educofseal.github.io-7C8CFF?style=for-the-badge&labelColor=0D1117" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/contatoedu/"><img src="https://img.shields.io/badge/LinkedIn-contatoedu-7C8CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+  <a href="mailto:contatoedu07@gmail.com"><img src="https://img.shields.io/badge/Email-contato-7C8CFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Educofseal&bg_color=000000&color=b26bc1&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+### 🧭 Como eu funciono
 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![WINDOWS](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=Windows&labelColor=0D1117)&nbsp;
-![LINUX](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-Microsoft_office-0D1117?style=for-the-badge&logo=Microsoft-office&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![Gn](https://img.shields.io/badge/-gnometerminal-0D1117?style=for-the-badge&logo=gnometerminal&labelColor=0D1117)&nbsp;
+```text
+curiosidade  →  construir  →  quebrar  →  entender  →  próxima curiosidade
+```
 
-### Studying in this moment:
-![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+Não aprendo bem só lendo. Mexi com motion graphics e edição de vídeo, passei por
+automação e Linux, e hoje meu foco é **Python, web e análise de dados**. As áreas
+mudam; o jeito de aprender é sempre o mesmo.
+
+### 🛠️ Ferramentas que fui juntando
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=7C8CFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=7C8CFF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=7C8CFF)
+![pandas](https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=7C8CFF)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=7C8CFF)
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=7C8CFF)
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=7C8CFF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=7C8CFF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=7C8CFF)
+
+<sub>também sei mexer com After Effects, motion graphics e edição de vídeo — não é o foco, mas é de onde vem meu cuidado com interface</sub>
+
+### 🔨 Coisas que construí pra entender algo
+
+| Projeto | A curiosidade por trás |
+|---|---|
+| **[Player2](https://github.com/Educofseal/Player2)** | E se conexões entre pessoas virassem matemática? Dijkstra, BFS e DFS do zero. |
+| **[Pokédex Desktop](https://github.com/Educofseal/Pokedex)** | Como um app desktop consome uma API e continua rápido offline? |
+| **People Analytics · Qualidade de Testes** *(publicando)* | Do dado cru ao indicador confiável — Python, SQL, Power BI. |
 
 <div align="center">
-<br><p align="centre"><b>Comming Soon...</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Educofseal}/count.svg" /></p> 
-<br></div>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Educofseal&show_icons=true&hide_border=true&count_private=true&title_color=7C8CFF&icon_color=7C8CFF&text_color=9AA3B2&bg_color=0D1117" alt="stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Educofseal&layout=compact&hide_border=true&title_color=7C8CFF&text_color=9AA3B2&bg_color=0D1117" alt="linguagens" />
+</div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BD24B2&height=120&section=footer"/>
-
+<p align="center"><sub>🌐 <a href="https://educofseal.github.io">educofseal.github.io</a> — um mapa de como eu aprendo, não uma lista de tecnologias.</sub></p>
