@@ -36,19 +36,27 @@ mudam; o jeito de aprender é sempre o mesmo.
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=7C8CFF)
 ![pandas](https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=7C8CFF)
 ![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=7C8CFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=7C8CFF)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=7C8CFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=7C8CFF)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=7C8CFF)
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=7C8CFF)
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=7C8CFF)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=7C8CFF)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=7C8CFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=7C8CFF)
 
 <sub>também sei mexer com After Effects, motion graphics e edição de vídeo — não é o foco, mas é de onde vem meu cuidado com interface</sub>
 
 ### 🔨 Coisas que construí pra entender algo
 
-| Projeto | A curiosidade por trás |
-|---|---|
-| **[Player2](https://github.com/Educofseal/Player2)** | E se conexões entre pessoas virassem matemática? Dijkstra, BFS e DFS do zero. |
-| **[Pokédex Desktop](https://github.com/Educofseal/Pokedex)** | Como um app desktop consome uma API e continua rápido offline? |
-| **People Analytics · Qualidade de Testes** *(publicando)* | Do dado cru ao indicador confiável — Python, SQL, Power BI. |
+| Projeto | A curiosidade por trás | Testar |
+|---|---|---|
+| **[sqlzinho](https://github.com/Educofseal/sqlzinho)** | Como um banco de dados responde a um `SELECT`? Tokenizer, parser, árvore B+ e planejador do zero, em Python puro, conferidos contra o SQLite em 300 testes. | [demo](https://educofseal.github.io/sqlzinho/) |
+| **[Lease Lens](https://github.com/Educofseal/lease-lens)** | Dá pra transformar uma pasta de contratos em PDF em respostas operacionais? Extração com pdfplumber, SQLite, FastAPI e React. | [demo](https://educofseal.github.io/lease-lens/) |
+| **[Player2](https://github.com/Educofseal/Player2)** | E se uma recomendação não fosse caixa-preta? Matchmaking com Dijkstra, BFS e DFS escritos à mão. | [demo](https://educofseal.github.io/Player2/) |
+| **[Pokédex](https://github.com/Educofseal/Pokedex)** | Como carregar 151 Pokémon de uma API sem a página congelar? Virou o jogo "Quem é esse Pokémon?" em JavaScript puro. | [jogar](https://educofseal.github.io/Pokedex/) |
+
+<sub>Em andamento: People Analytics · Qualidade de Testes — do dado cru ao indicador confiável, com Python, SQL e Power BI.</sub>
 
 <p align="center"><sub>🌐 <a href="https://educofseal.github.io">educofseal.github.io</a> — um mapa de como eu aprendo, não uma lista de tecnologias.</sub></p>
